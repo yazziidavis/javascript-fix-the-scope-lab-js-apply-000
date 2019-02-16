@@ -1,6 +1,6 @@
 var animal = 'dog'
 var animal2 = 'cat'
-var n = Math.floor;
+var n = Math.floor(Math.random);
 
 function myAnimal() {
   return animal
