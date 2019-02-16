@@ -1,6 +1,6 @@
 var animal = 'dog'
 var animal2 = 'cat'
-var n = 792;
+var n = Math.floor;
 
 function myAnimal() {
   return animal
