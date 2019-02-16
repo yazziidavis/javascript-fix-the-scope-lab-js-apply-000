@@ -1,6 +1,6 @@
 var animal = 'dog'
 var animal2 = 'cat'
-var 
+var funkyFunction = string.toUppercase();
 
 function myAnimal() {
   return animal
