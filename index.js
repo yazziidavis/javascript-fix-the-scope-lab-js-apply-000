@@ -1,6 +1,5 @@
 var animal = 'dog'
 var animal2 = 'cat'
-var funkyFunction = string.toUppercase();
 
 function myAnimal() {
   return animal
@@ -20,7 +19,7 @@ function add2(n) {
 
 var funkyFunction = function() {
   return function() {
-    string = "Funky!"
+    string.
     return "FUNKY!"
   }
 }
